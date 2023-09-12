@@ -26,20 +26,20 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ### [+] Installation
 
- - `git clone https://github.com/Hamno-1/camera`
- - `cd camera`
+ - `git clone https://github.com/KasRoudra/CamHacker`
+ - `cd CamHacker`
 
 For termux, use additional command `termux-setup-storage`
  - `bash ch.sh`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/Hamno-1/camera/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch.sh
 ```
 
 ### Docker
 
- - `sudo docker pull `
+ - `sudo docker pull kasroudra/camhacker`
  - `sudo docker run --rm -it --name camhacker kasroudra/camhacker`
  - `sudo docker cp camhacker:/CamHacker imgfiles` [Run this on another terminal to copy received image from docker to imgfiles folder keeping container open]
 
@@ -91,4 +91,13 @@ Thanks to <a href="https://github.com/noob-hackers/grabcam">Noob-Hackers</a>, <a
 ***This tool is developed for educational purposes. Here it demonstrates how camera phishing works. If anybody wants to gain unauthorized access to someones camera, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of CamHacker!***
 
 ## [~] Find Me on :
+
+- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+
+- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+
+- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+
 
